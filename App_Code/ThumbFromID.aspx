@@ -1,0 +1,1 @@
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="ThumbFromID.aspx.cs" Inherits="ThumbFromID" %> <html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml" dir="ltr"><head><title></title></head><body></body></html>

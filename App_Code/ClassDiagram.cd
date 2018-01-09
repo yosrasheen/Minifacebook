@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="db" Collapsed="true">
+    <Position X="0.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\db.cs</FileName>
+      <HashCode>AAAAAAAAQAAAAAAAAQAAAAAAAAAAABAAAAAAAAAEAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>
